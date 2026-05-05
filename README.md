@@ -1,4 +1,4 @@
-# E-Commerce Sales Dashboard Description! 🛒
+#E-Commerce Sales Dashboard
 
 
  1- Project Title / Headline:
