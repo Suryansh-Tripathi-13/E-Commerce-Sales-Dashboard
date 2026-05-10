@@ -42,7 +42,7 @@ Source: Kaggle —   https://www.kaggle.com/datasets/itszubi/e-commerce-business
 The dataset contains sales records of 10 products, 3 categories, and 4 regions from 2022 to 2024.
 It shows product-wise revenue, profits, and quantity sold.
 
-* Key Fields:
+Key Fields:
 
 *  Order Date – Date of the order
 * Product Name  – Name of the product
@@ -105,7 +105,7 @@ d-  Business Impact & Insights:
 
 6-  Screenshot/ Demo:
 
-* Show what the dashboard looks like.
+Show what the dashboard looks like.
 
 <img width="903" height="494" alt="E-Commerce Sales Dashboard" src="https://github.com/user-attachments/assets/97378f3e-8adc-4da5-bc89-46f212aeab97" />
 
